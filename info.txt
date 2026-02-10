@@ -1,0 +1,18 @@
+ASCII values
+A - 65
+B - 66
+C - 67
+a - 97
+b - 98
+c - 99
+0 - 48
+1 - 49
+2 - 50
+
+
+data types
+int - for numbers
+char - for single alphabets
+float - for decimals
+double - for large decimals
+boolean - yes/no
